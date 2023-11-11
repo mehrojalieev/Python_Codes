@@ -30,3 +30,24 @@ aylanma_yuzi = perimeter * radius**2
 print("Radius", radius, "ga teng aylananing yuzi=", aylanma_yuzi)
 
 
+
+# Type nomlash
+
+ch = int(10)
+sh = str(10)
+print(ch)
+print(sh)
+
+# Type ni aniqlash
+print(type(ch))
+print(type(sh))
+
+
+
+
+# CamelCase name
+userInputValue = "someone@gmail.com"
+print(userInputValue)
+print(type(userInputValue))
+
+
