@@ -17,3 +17,4 @@ if first_customer > second_customer :
     print("Your profit", first_customer * 2)
 elif first_customer < second_customer :
     print("Your profit", second_customer * 3)
+else:print("You have to enter number")
