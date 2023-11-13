@@ -38,3 +38,8 @@ for i in range(10, 15, 1):
     
     x = 36 / 4 * (3 +  2) * 4 + 2
     print(x)
+    
+    
+    sampleSet = {"Jodi", "Eric", "Garry"}
+sampleSet.add(1, "Vicki")
+print(sampleSet)
