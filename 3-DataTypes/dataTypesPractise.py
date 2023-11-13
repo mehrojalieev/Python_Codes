@@ -10,11 +10,31 @@
 # print(result)
 
 
-first_customer = int(input(" First: Enter your price ?"))
-second_customer = int(input(" Second: Enter your price ?"))
+# first_customer = int(input(" First: Enter your price ?"))
+# second_customer = int(input(" Second: Enter your price ?"))
 
-if first_customer > second_customer :
-    print("Your profit", first_customer * 2)
-elif first_customer < second_customer :
-    print("Your profit", second_customer * 3)
-else:print("You have to enter number")
+# if first_customer > second_customer :
+#     print("Your profit", first_customer * 2)
+# elif first_customer < second_customer :
+#     print("Your profit", second_customer * 3)
+# else:print("You have to enter number")
+
+
+str = "pynative"
+print (str[1:3]) # 1 va 3 ni orasidagi qiymat
+
+
+a,b,c = 10, 20, 30
+print(a,b,c)
+
+
+var = "Jack Back"
+print(var[2::-1])  #Teskari qiymat
+
+
+for i in range(10, 15, 1):
+    print(i, end=', ')
+    
+    
+    x = 36 / 4 * (3 +  2) * 4 + 2
+    print(x)

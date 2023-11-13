@@ -11,24 +11,23 @@
 
 
 # Ma'lumot turlarini olish
-# numb = 132
-# words = "Hello World"
-# numbDote = 150000.03
-# sentense = 1j
-# cars = ["Bmw", "Audi", "Dodge", "Bugatti"]
-# fruits = ("apple", "cherry", "pear")
+numb = 132
+words = "Hello World"
+numbDote = 150000.03
+sentense = 1j
+cars = ["Bmw", "Audi", "Dodge", "Bugatti"]
+fruits = ("apple", "cherry", "pear")
 
-# print(type(numb)) ### => int
-# print(type(words)) ### => str
-# print(type(numbDote)) ### => float
-# print(type(sentense)) ### => complex
-# print(type(cars)) # => list
-# print(type(fruits)) # => tuple
+print(type(numb)) ### => int
+print(type(words)) ### => str
+print(type(numbDote)) ### => float
+print(type(sentense)) ### => complex
+print(type(cars)) # => list
+print(type(fruits)) # => tuple
 
 
 
 # Ma'lumot turlarini berish
-
 phoneNumber = int(9989999999)
 print(phoneNumber)
 
