@@ -2,16 +2,13 @@
 # import logging
 # import sys
 # from os import getenv
-
 # from aiogram import Bot, Dispatcher, Router, types
 # from aiogram.enums import ParseMode
 # from aiogram.filters import CommandStart
 # from aiogram.types import Message
 # from aiogram.utils.markdown import hbold
-
 # # Bot token can be obtained via https://t.me/BotFather
 # TOKEN = getenv("6872692034:AAGXT4M8HMWwtJ3m_IgBJn2-J6k8Qppbq7M")
-
 # # All handlers should be attached to the Router (or Dispatcher)
 # dp = Dispatcher()
 
