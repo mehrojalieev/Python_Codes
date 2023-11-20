@@ -31,32 +31,40 @@
 
 
 
-x = 1    # int
-y = 2.8  # float
-z = 1j   # complex
+# x = 1    # int
+# y = 2.8  # float
+# z = 1j   # complex
 
-#convert from int to float:
-a = float(x)
+# #convert from int to float:
+# a = float(x)
 
-#convert from float to int:
-b = int(y)
+# #convert from float to int:
+# b = int(y)
 
-#convert from int to complex:
-c = complex(x)
+# #convert from int to complex:
+# c = complex(x)
 
-print(a)
-print(b)
-print(c)
+# print(a)
+# print(b)
+# print(c)
 
-print(type(a))
-print(type(b))
-print(type(c))
+# print(type(a))
+# print(type(b))
+# print(type(c))
 
 
-print(a)
-print(b)
-print(c)
+# print(a)
+# print(b)
+# print(c)
 
-print(type(a))
-print(type(b))
-print(type(c))
+# print(type(a))
+# print(type(b))
+# print(type(c))
+
+
+price = 100
+
+a = 50
+if a > price :
+    print("You can buy")
+else: print("Sorry< You cannot buy it")
